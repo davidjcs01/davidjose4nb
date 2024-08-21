@@ -1,8 +1,8 @@
 # davidjose4nb
 Repositório 4NB
----
+-----
 
-# Análise de Requisitos - Módulo de Cadastro de Doações para ONG
+# Análise de Requisitos - Módulo de Cadastro de Doações para ONG.
 
 ## 1. Descrição do Módulo
 
